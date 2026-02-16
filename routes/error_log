@@ -1,0 +1,48 @@
+[03-Dec-2025 02:16:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/channels.php on line 16
+[03-Dec-2025 05:55:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/console.php on line 17
+[12-Dec-2025 06:12:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/api.php on line 17
+[18-Dec-2025 09:21:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/web.php on line 16
+[30-Dec-2025 16:34:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/console.php on line 17
+[30-Dec-2025 20:59:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/channels.php on line 16
+[13-Jan-2026 16:52:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/api.php on line 17
+[18-Jan-2026 19:50:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/web.php on line 16
+[29-Jan-2026 23:09:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/channels.php on line 16
+[30-Jan-2026 04:55:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/console.php on line 17
+[12-Feb-2026 21:36:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/api.php on line 17
+[15-Feb-2026 10:41:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/routes/web.php on line 16

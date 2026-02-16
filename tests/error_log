@@ -1,0 +1,12 @@
+[26-Nov-2025 15:23:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/tests/TestCase.php on line 7
+[25-Dec-2025 20:45:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/tests/TestCase.php on line 7
+[24-Jan-2026 08:28:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/tests/TestCase.php on line 7

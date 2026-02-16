@@ -1,0 +1,12 @@
+[26-Nov-2025 17:41:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Models/User/SubscribeToNews.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Models/User/SubscribeToNews.php on line 8
+[24-Dec-2025 13:48:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Models/User/SubscribeToNews.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Models/User/SubscribeToNews.php on line 8
+[24-Jan-2026 12:02:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Models/User/SubscribeToNews.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Models/User/SubscribeToNews.php on line 8

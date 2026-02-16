@@ -1,0 +1,12 @@
+[03-Dec-2025 08:07:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/tests/Unit/ExampleTest.php on line 7
+[30-Dec-2025 13:55:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/tests/Unit/ExampleTest.php on line 7
+[29-Jan-2026 21:10:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/tests/Unit/ExampleTest.php on line 7

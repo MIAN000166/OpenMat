@@ -1,0 +1,12 @@
+[18-Dec-2025 06:11:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Kernel.php on line 7
+[18-Jan-2026 17:06:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Kernel.php on line 7
+[15-Feb-2026 10:11:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Kernel.php on line 7

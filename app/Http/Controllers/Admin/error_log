@@ -1,0 +1,48 @@
+[26-Nov-2025 14:25:27 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/UserController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/UserController.php on line 11
+[01-Dec-2025 00:37:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/LoginController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/LoginController.php on line 10
+[12-Dec-2025 03:48:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/BlogController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/BlogController.php on line 12
+[15-Dec-2025 05:34:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/MatController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/MatController.php on line 21
+[24-Dec-2025 07:44:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/UserController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/UserController.php on line 11
+[31-Dec-2025 00:24:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/LoginController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/LoginController.php on line 10
+[12-Jan-2026 15:30:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/BlogController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/BlogController.php on line 12
+[16-Jan-2026 01:55:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/MatController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/MatController.php on line 21
+[24-Jan-2026 08:41:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/UserController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/UserController.php on line 11
+[02-Feb-2026 11:22:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/LoginController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/LoginController.php on line 10
+[13-Feb-2026 12:26:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/BlogController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/BlogController.php on line 12
+[15-Feb-2026 10:38:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/MatController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Admin/MatController.php on line 21

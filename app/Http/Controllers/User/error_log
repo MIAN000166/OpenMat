@@ -1,0 +1,84 @@
+[30-Nov-2025 20:22:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/SubscriptionController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/SubscriptionController.php on line 11
+[03-Dec-2025 10:41:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/MatFilterController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/MatFilterController.php on line 10
+[03-Dec-2025 19:43:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/ContactController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/ContactController.php on line 11
+[03-Dec-2025 20:11:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/SearchFilterController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/SearchFilterController.php on line 10
+[11-Dec-2025 17:40:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/MatController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/MatController.php on line 10
+[12-Dec-2025 03:15:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/RegistrationController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/RegistrationController.php on line 11
+[15-Dec-2025 07:56:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/LoginController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/LoginController.php on line 10
+[31-Dec-2025 05:51:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/MatFilterController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/MatFilterController.php on line 10
+[31-Dec-2025 16:41:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/SubscriptionController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/SubscriptionController.php on line 11
+[05-Jan-2026 22:04:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/SearchFilterController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/SearchFilterController.php on line 10
+[06-Jan-2026 00:17:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/ContactController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/ContactController.php on line 11
+[12-Jan-2026 07:22:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/RegistrationController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/RegistrationController.php on line 11
+[15-Jan-2026 18:32:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/MatController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/MatController.php on line 10
+[16-Jan-2026 12:25:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/LoginController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/LoginController.php on line 10
+[30-Jan-2026 06:32:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/MatFilterController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/MatFilterController.php on line 10
+[04-Feb-2026 08:43:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/ContactController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/ContactController.php on line 11
+[04-Feb-2026 11:12:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/SearchFilterController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/SearchFilterController.php on line 10
+[04-Feb-2026 15:34:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/SubscriptionController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/SubscriptionController.php on line 11
+[13-Feb-2026 05:56:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/RegistrationController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/RegistrationController.php on line 11
+[15-Feb-2026 08:19:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/MatController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/MatController.php on line 10
+[15-Feb-2026 09:33:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/LoginController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/User/LoginController.php on line 10

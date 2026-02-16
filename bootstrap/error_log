@@ -1,0 +1,12 @@
+[03-Dec-2025 05:47:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/bootstrap/app.php on line 14
+[30-Dec-2025 13:08:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/bootstrap/app.php on line 14
+[30-Jan-2026 02:45:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/bootstrap/app.php on line 14

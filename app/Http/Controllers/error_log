@@ -1,0 +1,24 @@
+[26-Nov-2025 15:14:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Controller.php on line 9
+[26-Nov-2025 22:31:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/ImageImportController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/ImageImportController.php on line 9
+[24-Dec-2025 06:28:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Controller.php on line 9
+[24-Dec-2025 15:17:13 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/ImageImportController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/ImageImportController.php on line 9
+[24-Jan-2026 13:39:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/ImageImportController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/ImageImportController.php on line 9
+[24-Jan-2026 15:59:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Http/Controllers/Controller.php on line 9

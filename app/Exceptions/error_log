@@ -1,0 +1,12 @@
+[26-Nov-2025 23:46:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Exceptions/Handler.php on line 8
+[24-Dec-2025 09:18:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Exceptions/Handler.php on line 8
+[24-Jan-2026 19:46:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nadeem/public_html/openmat.dev-mn.xyz/app/Exceptions/Handler.php on line 8
